@@ -6,7 +6,7 @@ The Crop Management System is a machine learning-based project designed to provi
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/ab007shetty/crop-management-system.git
+https://github.com/RotenKiwi/ecoharvesters.git
 ```
 2. Install the required packages using pip.
 ```
@@ -99,7 +99,7 @@ The Crop Management System dataset includes the following features:
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
 
 ## Contributors
-- AB Shetty
+- RotenKiwi
 - ChatGPT 3.5 Turbo
 
 ## License
